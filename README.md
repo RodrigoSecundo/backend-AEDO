@@ -1,4 +1,4 @@
-# Projeto Backend - Sistema de Administração de Hospitais
+# Projeto Backend - Sistema de doação de órgãos
 
 Este projeto é responsável pela lógica do servidor, incluindo a conexão com o banco de dados e a entrega das informações para o frontend. É desenvolvido em *PHP* e utiliza o *MySQL* para armazenar os dados dos hospitais.
 
