@@ -20,18 +20,3 @@ Para rodar o backend, você também precisará do Laragon, que inclui o PHP e o 
 1. *Baixe o Laragon*: Acesse [Laragon](https://laragon.org/) e baixe a versão mais recente.
 2. *Instale o Laragon*: Execute o instalador e siga as instruções de instalação.
 3. *Inicie o Laragon*: Após a instalação, abra o Laragon e clique em "Start All" para iniciar o Apache e o MySQL.
-
-### 2. Configurando o Banco de Dados MySQL
-
-1. *Acesse o PHPMyAdmin*: Abra o navegador e acesse http://localhost/phpmyadmin.
-2. *Crie o banco de dados*:
-   - Crie um novo banco de dados chamado cadastro_usuario.
-   - Dentro deste banco, crie uma tabela hospitais com os seguintes campos:
-
-   ```sql
-   CREATE TABLE hospitais (
-       id INT AUTO_INCREMENT PRIMARY KEY,
-       nome VARCHAR(255) NOT NULL,
-       localizacao VARCHAR(255),
-       contato VARCHAR(255)
-   );
