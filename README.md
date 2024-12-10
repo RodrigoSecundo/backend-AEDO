@@ -1,5 +1,23 @@
 # Projeto Backend - Sistema de doação de órgãos
 
+Grupo:
+
+● Rodrigo Secundo Araújo (2210189);
+
+● Alan Raique Soares Nunes (2210559);
+
+● Caio Gomes Motta (2210618);
+
+● Victor Souza Silva (2211991);
+
+● Abner Dimitri Maciel de Oliveira (2210948);
+
+● Vitor Goulão Lopes (2210044);
+
+● Davi Queiroz de Oliveira (2210416);
+
+● Ryan Henrique Costa (2210200).
+
 Este projeto é responsável pela lógica do servidor, incluindo a conexão com o banco de dados e a entrega das informações para o frontend. É desenvolvido em *PHP* e utiliza o *MySQL* para armazenar os dados dos hospitais.
 
 ## Tecnologias Utilizadas
